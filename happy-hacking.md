@@ -10,6 +10,8 @@ We began working “in parallel”.  That is, not all of us were working on the 
 
 This went on for about ten hours with requisite take-out food and coffee breaks.  The results were impressive.  We created an initial version of a [GitHub cloning tool](https://github.com/18F/microsite-18f) and [site template with 18F branding](https://github.com/18F/microsite-template-18f).  These weren’t quite done in ten hours, We had to work some more to perfect them, and later used them to stamp out 6 repos for an Agile workshop that we were running for the Presidential Innovation Fellows and their Agency partners.
 
+
+
 Later we learned that Ben Balter may have already written a similar tool---it is not uncommon to learn that what you build has some significant overlaps with some other work. But this is not wasted time, because you master the material, and usually what you do differs in some way from what somewhat else has done.
 
 Eric and Alan made even greater progress on their project.
